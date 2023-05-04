@@ -1,0 +1,9 @@
+#Creat2 Theatre ticket booking system
+
+
+# number of seats limited
+# normal / recliner
+# set prices accordingly
+# add combos 
+# display bill
+# go to next person
