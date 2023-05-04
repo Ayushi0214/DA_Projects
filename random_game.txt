@@ -1,0 +1,1 @@
+Use Random module to create any game in Python
