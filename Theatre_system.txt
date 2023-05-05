@@ -1,4 +1,4 @@
-#Creat2 Theatre ticket booking system
+#Create Theatre ticket booking system
 
 
 # number of seats limited
