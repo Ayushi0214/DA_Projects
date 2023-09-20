@@ -1,0 +1,7 @@
+1. identify the time at which we are getting high orders and the time at which we are getting the lowest orders
+2. identify which day of the week we are getting the hight orderes
+3. total sales
+4. identify which pizza is ordered the most
+5. Identify which pizza is generating more sales
+6. Identify at which time of the day, people are ordering more pizzas.       (morning/evening/afternoon/night)
+7. Identify which pizza category is hotselling.
