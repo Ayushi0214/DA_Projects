@@ -2,9 +2,8 @@ Create a Library Management System
 
 1. Username Password
 2. total availables books (math - 0)
-3. add book
-4. borrow books
-5. return books
-6. display borrowed books details along with person's name. 
+3. borrow books
+4. return books
+5. display borrowed books details along with person's name. 
 
 increase and decrease the count of books accordingly.
